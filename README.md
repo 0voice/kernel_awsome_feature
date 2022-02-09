@@ -1,4 +1,4 @@
-# 🔰 深入研究 kvm,ceph,fuse,virtio,vhost 特性，，包含开源项目，代码案例，文章，视频，架构脑图等
+# 🔰 深入研究 `kvm`,`ceph`,`fuse`,`virtio`,`vhost` 特性，包含开源项目，代码案例，文章，视频，架构脑图等
 
 ## 🔥 kvm
 
