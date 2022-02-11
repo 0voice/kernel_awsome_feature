@@ -27,6 +27,7 @@
   - KVM 论坛：https://events.linuxfoundation.org/kvm-forum/
 - 其他文档：
   - Linux_2_6_20 版本文献：https://kernelnewbies.org/Linux_2_6_20#head-bca4fe7ffe454321118a470387c2be543ee51754
+  - kvm源码托管仓库 : https://git.kernel.org/pub/scm/virt/kvm/kvm.git/
 
 ### 开源项目 
 
