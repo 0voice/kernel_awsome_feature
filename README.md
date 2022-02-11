@@ -41,6 +41,14 @@
 - [virt-top](https://linux.die.net/man/1/virt-top)：虚拟机统计命令
 - [virt-viewer](https://gitlab.com/virt-viewer/virt-viewer)：用于连接到虚拟机的图形控制台
 
+## 图形管理工具
+- Kimchi（英语：[Kimchi (software)](https://www.wikiwand.com/en/Kimchi_(software))） – 网页版KVM虚拟化管理工具
+- [Virtual Machine Manager](https://www.wikiwand.com/zh-sg/Virtual_Machine_Manager) – 支持创建、编辑、启动与停止基于KVM的虚拟机，同时也支持对宿主之间的实时或冷拖拽虚拟机迁移。
+- [Proxmox虚拟环境](https://www.wikiwand.com/zh-sg/Proxmox_VE) – 一项开源的虚拟化管理包，包括KVM与[LXC](https://www.wikiwand.com/zh-sg/LXC)。同时它还有裸机安装器、网页版远程管理界面、HA集群堆栈、统一存储、柔性网络及可选的商业支持。
+- OpenQRM（英语：[OpenQRM](https://www.wikiwand.com/en/OpenQRM)） – 用于管理不同数据中心基础设施的平台。
+- [GNOME 机柜](https://www.wikiwand.com/zh-sg/GNOME_機櫃) – Linux上用于管理libvirt客户机的Gnome界面。
+- oVirt（英语：[oVirt](https://www.wikiwand.com/en/oVirt)） – 用于管理基于libvirt的KVM开源工具。
+
 ### 文章
 
 ### 视频
