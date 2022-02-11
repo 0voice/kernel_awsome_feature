@@ -21,7 +21,12 @@
 
 ### 文档
 - 官方文档:
+  - 官方网址：https://www.linux-kvm.org/page/Main_Page
+  - Avi Kivity 在Linux 内核中的邮件: http://lkml.iu.edu/hypermail/linux/kernel/0610.2/1369.html
+  - KVM 博客：http://planet.virt-tools.org/
+  - KVM 论坛：https://events.linuxfoundation.org/kvm-forum/
 - 其他文档：
+  - Linux_2_6_20 版本文献：https://kernelnewbies.org/Linux_2_6_20#head-bca4fe7ffe454321118a470387c2be543ee51754
 
 ### 开源项目 
 
