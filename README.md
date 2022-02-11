@@ -30,7 +30,16 @@
   - kvm源码托管仓库 : https://git.kernel.org/pub/scm/virt/kvm/kvm.git/
   - kvm源码下载：https://sourceforge.net/projects/kvm/files/?source=navbar
 
-### 开源项目 
+### 与虚拟化相关的程序包
+
+- [qemu-kvm](https://www.qemu.org/)：主要的KVM程序包
+- [libvirt](https://libvirt.org/)：用于管理超级监视程序的libvirtd服务
+  - 代码管理仓： https://gitlab.com/libvirt/libvirt 
+- [libvirt-client](https://centos.pkgs.org/7/centos-updates-x86_64/libvirt-client-4.5.0-36.el7_9.3.x86_64.rpm.html)：用于管理虚拟机的virsh命令和客户端API
+- [virt-install](https://linux.die.net/man/1/virt-install)：创建虚拟机需要的命令行工具
+- [virt-manager](https://virt-manager.org/)：GUI虚拟机管理工具（图形界面）
+- [virt-top](https://linux.die.net/man/1/virt-top)：虚拟机统计命令
+- [virt-viewer](https://gitlab.com/virt-viewer/virt-viewer)：用于连接到虚拟机的图形控制台
 
 ### 文章
 
