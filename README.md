@@ -28,6 +28,7 @@
 - 其他文档：
   - Linux_2_6_20 版本文献：https://kernelnewbies.org/Linux_2_6_20#head-bca4fe7ffe454321118a470387c2be543ee51754
   - kvm源码托管仓库 : https://git.kernel.org/pub/scm/virt/kvm/kvm.git/
+  - kvm源码下载：https://sourceforge.net/projects/kvm/files/?source=navbar
 
 ### 开源项目 
 
