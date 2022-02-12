@@ -51,6 +51,23 @@
 
 ### 文章
 
+- [KVM 学习笔记](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+- [KVM与VMware哪个好？如何选择更好的 Hypervisor](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E4%B8%8EVMware%E5%93%AA%E4%B8%AA%E5%A5%BD%EF%BC%9F%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%9B%B4%E5%A5%BD%E7%9A%84%20Hypervisor.md)
+- [KVM之内存虚拟化](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E4%B9%8B%E5%86%85%E5%AD%98%E8%99%9A%E6%8B%9F%E5%8C%96.md)
+- [KVM详解](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%AF%A6%E8%A7%A3.md)
+- [QEMU-KVM 虚拟化环境的搭建与使用](https://github.com/0voice/kernel_awsome_feature/blob/main/QEMU-KVM%20%E8%99%9A%E6%8B%9F%E5%8C%96%E7%8E%AF%E5%A2%83%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
+- [详解KVM虚拟化原理](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%AF%A6%E8%A7%A3KVM%E8%99%9A%E6%8B%9F%E5%8C%96%E5%8E%9F%E7%90%86.md)
+- [KVM到底是个啥？](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5%EF%BC%9F.md)
+- [KVM实践初步](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E5%AE%9E%E8%B7%B5%E5%88%9D%E6%AD%A5.md)
+- [KVM管理工具libvirt](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7libvirt.md)
+- [KVM虚拟机的各种安装方法](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%90%84%E7%A7%8D%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.md)
+- [KVM虚拟机全生命周期管理实战](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98.md)
+- [KVM虚拟机存储管理实战（上篇）](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89.md)
+- [KVM虚拟机存储管理实战（下篇）](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
+- [KVM虚拟机网络管理实战](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98.md)
+
+## 学术论文
+
 ### 视频
 
 ## 🔥 ceph
