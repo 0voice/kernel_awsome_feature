@@ -174,11 +174,11 @@
   - 红帽 Ceph：https://www.redhat.com/en/technologies/storage/ceph
   - 红帽 文件系统指南：https://access.redhat.com/documentation/zh-cn/red_hat_ceph_storage/4/html/file_system_guide/introduction-to-the-ceph-file-system
   - Ceph v10.0 中文文档：https://www.bookstack.cn/read/ceph-10-zh/cd0dcad3545db7c0.md
-  - ceph手册：https://www.kancloud.cn/willseecloud/ceph/1788233
+  - Ceph 手册：https://www.kancloud.cn/willseecloud/ceph/1788233
   - Ceph 中文文档：https://www.wenjiangs.com/doc/trfbacev
-  - Ceph学习笔记：https://www.bookstack.cn/read/zxj_ceph/deploy
+  - Ceph 学习笔记：https://www.bookstack.cn/read/zxj_ceph/deploy
   - Ceph 运维手册：https://lihaijing.gitbooks.io/ceph-handbook/content/
-  - ceph 13.2.1 常用命令手册：https://www.siguadantang.com/cloud/ceph/ceph-command/
+  - Ceph 13.2.1 常用命令手册：https://www.siguadantang.com/cloud/ceph/ceph-command/
 
 ### 开源项目 
 
