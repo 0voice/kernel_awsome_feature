@@ -68,6 +68,45 @@
 
 ## 学术论文
 
+- [Linux-based Virtualization](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%20Linux-based%20Virtualization.pdf)
+- [Architecture of the Kernel-based Virtual Machine (KVM)](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Architecture%20of%20the%20Kernel-based%20Virtual%20Machine%20(KVM).pdf)
+- [IBM-Best practices for KVM](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/IBM-Best%20practices%20for%20KVM.pdf)
+- [Introduction to KVM](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Introduction%20to%20KVM.pdf)
+- [Virtio-blk Performance Improvement](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Virtio-blk%20Performance%20Improvement.pdf)
+- [Virtualization with KVM](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Virtualization%20with%20KVM.pdf)
+- [KVM客户机主动共享的内存超量使用策略研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E5%AE%A2%E6%88%B7%E6%9C%BA%E4%B8%BB%E5%8A%A8%E5%85%B1%E4%BA%AB%E7%9A%84%E5%86%85%E5%AD%98%E8%B6%85%E9%87%8F%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf)
+- [KVM系统任务管理的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E7%B3%BB%E7%BB%9F%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [KVM虚拟化动态迁移技术的安全防护模型](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E8%99%9A%E6%8B%9F%E5%8C%96%E5%8A%A8%E6%80%81%E8%BF%81%E7%A7%BB%E6%8A%80%E6%9C%AF%E7%9A%84%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E6%A8%A1%E5%9E%8B.pdf)
+- [KVM虚拟机CPU虚拟化的研究与调度策略的优化](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E8%99%9A%E6%8B%9F%E6%9C%BACPU%E8%99%9A%E6%8B%9F%E5%8C%96%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5%E7%9A%84%E4%BC%98%E5%8C%96.caj)
+- [KVM虚拟机热迁移算法分析及优化](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%83%AD%E8%BF%81%E7%A7%BB%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E5%8F%8A%E4%BC%98%E5%8C%96.pdf)
+- [KVM虚拟机的性能研究与改进](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E6%80%A7%E8%83%BD%E7%A0%94%E7%A9%B6%E4%B8%8E%E6%94%B9%E8%BF%9B.pdf)
+- [KVM虚拟机的漏洞验证与利用方式研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E6%BC%8F%E6%B4%9E%E9%AA%8C%E8%AF%81%E4%B8%8E%E5%88%A9%E7%94%A8%E6%96%B9%E5%BC%8F%E7%A0%94%E7%A9%B6.pdf)
+- [QEMU-KVM设备虚拟化研究与改进](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/QEMU-KVM%E8%AE%BE%E5%A4%87%E8%99%9A%E6%8B%9F%E5%8C%96%E7%A0%94%E7%A9%B6%E4%B8%8E%E6%94%B9%E8%BF%9B.pdf)
+- [Xen与KVM虚拟化方案的设计与性能评比](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Xen%E4%B8%8EKVM%E8%99%9A%E6%8B%9F%E5%8C%96%E6%96%B9%E6%A1%88%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%AF%94.pdf)
+- [Xen和KVM等四大虚拟化架构对比分析](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Xen%E5%92%8CKVM%E7%AD%89%E5%9B%9B%E5%A4%A7%E8%99%9A%E6%8B%9F%E5%8C%96%E6%9E%B6%E6%9E%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.pdf)
+- [基于KVM的虚拟桌面基础架构设计与优化](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8E%20%EF%BC%AB%EF%BC%B6%EF%BC%AD%20%E7%9A%84%E8%99%9A%E6%8B%9F%E6%A1%8C%E9%9D%A2%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BC%98%E5%8C%96.pdf)
+- [基于IEEE1588的虚拟集群任务同步测量技术研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EIEEE1588%E7%9A%84%E8%99%9A%E6%8B%9F%E9%9B%86%E7%BE%A4%E4%BB%BB%E5%8A%A1%E5%90%8C%E6%AD%A5%E6%B5%8B%E9%87%8F%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.pdf)
+- [基于KVM云计算平台的分布式关系型数据库的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E4%BA%91%E8%AE%A1%E7%AE%97%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于KVM的桌面虚拟化VDI研究以及实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E7%9A%84%E6%A1%8C%E9%9D%A2%E8%99%9A%E6%8B%9F%E5%8C%96VDI%E7%A0%94%E7%A9%B6%E4%BB%A5%E5%8F%8A%E5%AE%9E%E7%8E%B0.caj)
+- [基于KVM的私有云应用平台的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%BA%94%E7%94%A8%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于KVM的虚拟机自省系统设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%87%AA%E7%9C%81%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于KVM的虚拟机调度方法研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%B0%83%E5%BA%A6%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
+- [基于KVM虚拟化技术的研究与实验评估](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E9%AA%8C%E8%AF%84%E4%BC%B0.pdf)
+- [基于KVM虚拟化的TCP_IP协议栈隔离](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E8%99%9A%E6%8B%9F%E5%8C%96%E7%9A%84TCP_IP%E5%8D%8F%E8%AE%AE%E6%A0%88%E9%9A%94%E7%A6%BB.pdf)
+- [基于KVM虚拟机动态迁移的研究与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%8A%A8%E6%80%81%E8%BF%81%E7%A7%BB%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于KVM虚拟机的恶意行为检测系统设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E6%81%B6%E6%84%8F%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于KVM设备虚拟化技术的研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E8%AE%BE%E5%A4%87%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6.pdf)
+- [基于KVM集群的负载均衡机制系统的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EKVM%E9%9B%86%E7%BE%A4%E7%9A%84%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9C%BA%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于Linux的虚拟化技术研究和应用](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8ELinux%E7%9A%84%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%92%8C%E5%BA%94%E7%94%A8.pdf)
+- [基于QEMU-KVM的办公桌面云系统的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EQEMU-KVM%E7%9A%84%E5%8A%9E%E5%85%AC%E6%A1%8C%E9%9D%A2%E4%BA%91%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于QEMU-KVM的桌面云服务端软件架构设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EQEMU-KVM%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%AB%AF%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于oVirt_Qemu_Kvm云平台系统分析与安全加固设计](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8EoVirt_Qemu_Kvm%E4%BA%91%E5%B9%B3%E5%8F%B0%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA%E8%AE%BE%E8%AE%A1.pdf)
+- [基于内核的虚拟机的研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8E%E5%86%85%E6%A0%B8%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E7%A0%94%E7%A9%B6.pdf)
+- [基于多核的虚拟化技术研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%A0%B8%E7%9A%84%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.pdf)
+- [网络功能虚拟化平台研究](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E7%BD%91%E7%BB%9C%E5%8A%9F%E8%83%BD%E8%99%9A%E6%8B%9F%E5%8C%96%E5%B9%B3%E5%8F%B0%E7%A0%94%E7%A9%B6.pdf)
+- [虚拟机应用系统的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+
+
 ### 视频
 
 ## 🔥 ceph
