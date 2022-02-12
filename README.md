@@ -66,7 +66,7 @@
 - [KVM虚拟机存储管理实战（下篇）](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
 - [KVM虚拟机网络管理实战](https://github.com/0voice/kernel_awsome_feature/blob/main/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98.md)
 
-## 学术论文
+### 学术论文
 
 - [Linux-based Virtualization](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%20Linux-based%20Virtualization.pdf)
 - [Architecture of the Kernel-based Virtual Machine (KVM)](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/Architecture%20of%20the%20Kernel-based%20Virtual%20Machine%20(KVM).pdf)
@@ -107,7 +107,55 @@
 - [虚拟机应用系统的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/kvm/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
 
 
-### 视频
+### 视频(提取码：1024)
+
+- [Analysis of AMD HW-assisted vIOMMU Implementation and Performance](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Background Snapshots in QEMU- Towards Asynchronous Revert - Denis Lunev, Virtuozzo](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Debugging Secured Windows OS guest using KVM_QEMU and Windbg - Marek Kędzierski, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Dirty Quota-Based VM Live Migration Auto-Converge - Manish Mishra & Shivam Kumar, Nutanix India](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Don't Peek Into my Container! - Alice Frosi, Christophe de Dinechin & Sergio Lopez Pascual, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Encrypted Virtual Machine Images for Confidential Computing - James Bottomley, IBM & Brijesh Singh](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [HCK-CI- Enabling CI for Windows Guest Paravirtualized Drivers - Kostiantyn Kostiuk](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [High Performance NVMe Offloading in SPDK Using the New vfio-user Protocol](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Host & Guest Tracing in Virtualization- -To sync, or not to sync](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [How Hard Could it be to Flip a bit- KVM PV Feature Enablement up the Virtualization Stack_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Hyperscale vDPA - Jason Wang, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Hypervisor-less Virtio for Real-time and Safety - Maarten Koning, Wind River](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Is QEMU too Complex, and What Can we do About It- - Paolo Bonzini, Red Hat, Inc.](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Is QEMU too Complex, and What Can we do About It- - Paolo Bonzini, Red Hat, Inc._2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Know your QEMU and KVM Test Frameworks - Thomas Huth, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Kubevirt and the Cost of Containerizing VMs](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [KVM Dirty Page Tracking - Peter Xu, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [KVM Memory Cost Optimization in Alibaba Cloud - Huaitong Han, Alibaba Cloud](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Lessons Learned Building a Production Memory-Overcommit Solution - Florian Schmidt & Ivan Teterevkov](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [libkrun- More than a VMM, in Dynamic Library Form - Sergio Lopez Pascual, Red Hat_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [libvfio-user- Status Update - Thanos Makatos & John Levon, Nutanix](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [libvfio-user- Status Update - Thanos Makatos & John Levon, Nutanix_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Live Migrating VFIO, vhost-user, and vfio-user Devices - Stefan Hajnoczi, Red Hat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Live Migrating VFIO, vhost-user, and vfio-user Devices - Stefan Hajnoczi, Red Hat_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Mitigating Excessive Pause-Loop-Exiting in VM-Agnostic KVM - Kenta Ishiguro, Keio University](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [New Qemu Backup Architecture and API - Vladimir Sementsov-Ogievskiy, Virtuozzo](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Passthrough_Headless GPU Gets Ahead - Tina Zhang & Vivek Kasireddy, Intel](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Protecting from MaliciousHypervisor Using AMD SEV-SNP - Brijesh Singh, AMD](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [QEMU Emulated NVMe - Lessons Learned and Future Work - Klaus Jensen, Samsung Electronics](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [QEMU Emulated NVMe - Lessons Learned and Future Work - Klaus Jensen, Samsung Electronics_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Qemu Performance Regression CI - Lukáš Doktor, Red Hat Czech, s. r. o.](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Receive Side Scaling (RSS) with eBPF in QEMU and virtio-net - Yan Vugenfirer, Daynix](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [rust-vmm- A Security Journey - Andreea Florescu, Amazon](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Secure Live Migration of Encrypted VMs - Tobin Feldman-Fitzthum & Dov Murik, IBM](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Securing Linux VM boot with AMD SEV measurement - Dov Murik & Hubertus Franke, IBM Research](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Securing the Hypervisor with Control-Flow Integrity - Daniele Buono, IBM](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Sharing IOMMU PageTables with TDP in KVM - Lu Baolu & Zhao Yan, Intel Corporation](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Status Update on TDX Support - Isaku Yamahata, Intel](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Support SDEI Virtualization and Asynchronous Page Fault for arm64 - Gavin Shan, Redhat](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [TDX Live Migration - Wei Wang, Intel Corp.](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [The Traps of Using Hyper-V Features in KVM Environment - Liang Li, Alibaba](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Towards a More Efficiently Synchronization in KVM - Wanpeng Li, Tencent Cloud](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Towards High-availability for Virtio-fs - Jiachen Zhang & Yongji Xie, ByteDance](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [Unmapped Guest Memory - Yu Zhang, Intel](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [vdpa-blk- Unified Hardware and Software Offload for virtio-blk - Stefano Garzarella, Red Hat_2](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [VDUSE - vDPA Device in Userspace - Yongji Xie, ByteDance](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
+- [VFIO User - Using VFIO as the IPC Protocol in Multi-process QEMU - John Johnson & Jagannathan Raman](https://pan.baidu.com/s/1aG_BJRY1rggPsM2HPdMQBQ)
 
 ## 🔥 ceph
 
