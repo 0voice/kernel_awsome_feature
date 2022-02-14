@@ -249,7 +249,9 @@
 
 ### 文档
 - 官方文档:
-- 其他文档：
+  - Linux内核官方文档：https://www.kernel.org/doc/html/latest/filesystems/fuse.html
+  - 源码仓：https://github.com/libfuse/libfuse
+
 
 ### 开源项目 
 
