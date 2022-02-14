@@ -218,6 +218,24 @@
 
 ### 文章
 
+- [「基础理论」CEPH 基础介绍](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E3%80%8DCEPH%20%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
+- [「核心」Ceph学习三部曲之一:A First Glance At CRUSH](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E4%B8%80:A%20First%20Glance%20At%20CRUSH.md)
+- [「核心」Ceph学习三部曲之二:CEPH 纠删码操作&API](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E4%BA%8C:CEPH%20%E7%BA%A0%E5%88%A0%E7%A0%81%E6%93%8D%E4%BD%9C%26API.md)
+- [「核心」Ceph学习三部曲之三:迁移之美——PG读写流程与状态迁移详解 ](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E4%B8%89:%E8%BF%81%E7%A7%BB%E4%B9%8B%E7%BE%8E%E2%80%94%E2%80%94PG%E8%AF%BB%E5%86%99%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%8A%B6%E6%80%81%E8%BF%81%E7%A7%BB%E8%AF%A6%E8%A7%A3%20.md)
+- [「核心」Ceph学习三部曲之四:下一代对象存储引擎BlueStore](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E5%9B%9B:%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8EBlueStore.md)
+- [「核心」Ceph学习三部曲之五：分布式块存储RBD](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E4%BA%94%EF%BC%9A%E5%88%86%E5%B8%83%E5%BC%8F%E5%9D%97%E5%AD%98%E5%82%A8RBD.md)
+- [「核心」Ceph学习三部曲之六：对象存储网关RGW](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E5%85%AD%EF%BC%9A%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E7%BD%91%E5%85%B3RGW.md)
+- [「核心」Ceph学习三部曲之七：分布式文件系统CephFS](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E4%B8%83%EF%BC%9A%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9FCephFS.md)
+- [「核心」Ceph学习三部曲之八:控制先行——Ceph的QoS策略](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8DCeph%E5%AD%A6%E4%B9%A0%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E5%85%AB:%E6%8E%A7%E5%88%B6%E5%85%88%E8%A1%8C%E2%80%94%E2%80%94Ceph%E7%9A%84QoS%E7%AD%96%E7%95%A5.md)
+- [「模块」Ceph-Monitor 集群的代脑](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A8%A1%E5%9D%97%E3%80%8DCeph-Monitor%20%E9%9B%86%E7%BE%A4%E7%9A%84%E4%BB%A3%E8%84%91.md)
+- [「模块」Ceph-OSD 集群的奠基石](https://github.com/0voice/kernel_awsome_feature/blob/main/%E3%80%8C%E6%A8%A1%E5%9D%97%E3%80%8DCeph-OSD%20%E9%9B%86%E7%BE%A4%E7%9A%84%E5%A5%A0%E5%9F%BA%E7%9F%B3.md)
+- [分布式存储 Ceph 的演进经验 · SOSP '19](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%20Ceph%20%E7%9A%84%E6%BC%94%E8%BF%9B%E7%BB%8F%E9%AA%8C%20%C2%B7%20SOSP%20'19.md)
+- [分布式存储Ceph](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8Ceph.md)
+- [分布式文件系统ceph知识整理](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9Fceph%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.md)
+- [基于Ceph打造高性能高可靠的分布式块存储系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9Fceph%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.md)
+- [Ceph论文译文 Ceph：一个可扩展，高性能分布式文件系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%9F%BA%E4%BA%8ECeph%E6%89%93%E9%80%A0%E9%AB%98%E6%80%A7%E8%83%BD%E9%AB%98%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%9D%97%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.md)
+
+
 ### 视频
 
 ## 🔥 fuse
