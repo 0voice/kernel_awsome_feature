@@ -182,7 +182,7 @@
 
 ![image](https://user-images.githubusercontent.com/87457873/153714645-072731c5-bdfe-4692-9ad5-1836269861a1.png)
 
-### 开源项目 
+### 学术论文
 
 ### 文章
 
