@@ -236,7 +236,13 @@
 - [Ceph论文译文 Ceph：一个可扩展，高性能分布式文件系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%9F%BA%E4%BA%8ECeph%E6%89%93%E9%80%A0%E9%AB%98%E6%80%A7%E8%83%BD%E9%AB%98%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%9D%97%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.md)
 
 
-### 视频
+### 视频(提取码：1024)
+
+- [What is Ceph?](https://pan.baidu.com/s/1Hytrgh6VDXtJsC8xQ3fwew)
+- [The Kernel of Software Defined Storage - Haomai Wang, ZhaoChen](https://pan.baidu.com/s/1Hytrgh6VDXtJsC8xQ3fwew)
+- [Ceph, the future of Storage - Sage Weil](https://pan.baidu.com/s/1Hytrgh6VDXtJsC8xQ3fwew)
+- [Extending Ceph's Reach - Tushar Gohad, Zhong Xin_3](https://pan.baidu.com/s/1Hytrgh6VDXtJsC8xQ3fwew)
+- [Ceph's journey at SUSE - Lars Marowsky Brée, Marc Koderer](https://pan.baidu.com/s/1Hytrgh6VDXtJsC8xQ3fwew)
 
 ## 🔥 fuse
 
