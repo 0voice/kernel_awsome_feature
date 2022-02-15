@@ -279,6 +279,14 @@
 
 ### 文章
 
+- [吴锦华、明鑫 : 用户态文件系统 ( FUSE ) 框架分析和实战](https://github.com/0voice/kernel_awsome_feature/blob/main/%E5%90%B4%E9%94%A6%E5%8D%8E%E3%80%81%E6%98%8E%E9%91%AB%20:%20%E7%94%A8%E6%88%B7%E6%80%81%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20(%20FUSE%20)%20%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90%E5%92%8C%E5%AE%9E%E6%88%98.md)
+- [详解 FUSE 用户态文件系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%AF%A6%E8%A7%A3%20FUSE%20%E7%94%A8%E6%88%B7%E6%80%81%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
+- [自制文件系统 — 01 文件系统的样子](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20%E2%80%94%2001%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%B7%E5%AD%90.md)
+- [自制文件系统 — 02 FUSE 框架，开发者的福音](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20%E2%80%94%2002%20FUSE%20%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%A6%8F%E9%9F%B3.md)
+- [自制文件系统 — 03 Go实战：hello world 的文件系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20%E2%80%94%2003%20Go%E5%AE%9E%E6%88%98%EF%BC%9Ahello%20world%20%E7%9A%84%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
+- [自制文件系统 — 04 HelloFS 进阶 分布式加密文件系统](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20%E2%80%94%2004%20HelloFS%20%E8%BF%9B%E9%98%B6%20%E5%88%86%E5%B8%83%E5%BC%8F%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
+- [自制文件系统 — 05 总结：一切都为了狙击“文件”](https://github.com/0voice/kernel_awsome_feature/blob/main/%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%20%E2%80%94%2005%20%E6%80%BB%E7%BB%93%EF%BC%9A%E4%B8%80%E5%88%87%E9%83%BD%E4%B8%BA%E4%BA%86%E7%8B%99%E5%87%BB%E2%80%9C%E6%96%87%E4%BB%B6%E2%80%9D.md)
+
 ### 视频
 
 <!--
