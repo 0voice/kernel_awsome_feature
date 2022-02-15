@@ -1,4 +1,4 @@
-# 🔰 深入研究 `kvm`,`ceph`,`fuse`,`virtio`,`vhost` 特性，包含开源项目，代码案例，文章，视频，架构脑图等
+# 🔰 深入研究 `kvm`,`ceph`,`fuse` 特性，包含开源项目，代码案例，文章，视频，架构脑图等
 
 所有数据来源于互联网。所谓取之于互联网，用之于互联网。
 
@@ -259,16 +259,17 @@
 
 ### 视频
 
+<!--
 ## 🔥 virtio
 
-<!--
+
 <div  align=center>
   
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/87457873/150633338-fde17a17-9cfb-4a32-bc51-d76e02b6904e.png"/>
   
 #### —— 用户态文件系统
 </div>
--->
+
 ### 文档
 - 官方文档:
 - 其他文档：
@@ -281,14 +282,14 @@
 
 ## 🔥 vhost
 
-<!--
+
 <div  align=center>
   
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/87457873/150633338-fde17a17-9cfb-4a32-bc51-d76e02b6904e.png"/>
   
 #### —— 用户态文件系统
 </div>
--->
+
 ### 文档
 - 官方文档:
 - 其他文档：
@@ -298,5 +299,5 @@
 ### 文章
 
 ### 视频
-
+-->
 
