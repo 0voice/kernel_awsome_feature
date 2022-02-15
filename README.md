@@ -255,6 +255,28 @@
 
 ### 学术论文
 
+- [FUSE](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/FUSE.pdf)
+- [lab-FUSE](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/lab-FUSE_.pdf)
+- [Kernel Bypass for File Systems](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%20Kernel%20Bypass%20for%20File%20Systems.pdf)
+- [Performance of User-Space File Systems](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%20Performance%20of%20User-Space%20File%20Systems.pdf)
+- [A Diagnostic Tool for FUSE Modules Final Report](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/A%20Diagnostic%20Tool%20for%20FUSE%20Modules%20Final%20Report.pdf)
+- [Develop your own filesystem with FUSE](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Develop%20your%20own%20filesystem%20with%20FUSE.pdf)
+- [Extension Framework for File Systems in User Space](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Extension%20Framework%20for%20File%20Systems%20in%20User%20Space.pdf)
+- [Benefit of DDN’s IME-FUSE for I_O intensive HPC applications](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/O%20intensive%20HPC%20applications..pdf)
+- [Performance Evaluations of Distributed File Systems for Scientific Big Data in FUSE Environment](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Performance%20Evaluations%20of%20Distributed%20File%20Systems%20for%20Scientific%20Big%20Data%20in%20FUSE%20Environment.pdf)
+- [Performance and Extension of User Space File Systems](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Performance%20and%20Extension%20of%20User%20Space%20File%20Systems.pdf)
+- [Performance and Resource Utilization of FUSE User-Space File Systems](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Performance%20and%20Resource%20Utilization%20of%20FUSE%20User-Space%20File%20Systems.pdf)
+- [To FUSE or not to FUSE- Analysis and Performance Characterization of the FUSE User-Space File System Framework](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/To%20FUSE%20or%20not%20to%20FUSE-%20Analysis%20and%20Performance%20Characterization%20of%20the%20FUSE%20User-Space%20File%20System%20Framework.pdf)
+- [When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf)
+- [基于FUSE的MBR编码的并行化研究](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E5%9F%BA%E4%BA%8EFUSE%E7%9A%84MBR%E7%BC%96%E7%A0%81%E7%9A%84%E5%B9%B6%E8%A1%8C%E5%8C%96%E7%A0%94%E7%A9%B6.pdf)
+- [基于FUSE的云数据访问与存储优化研究](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E5%9F%BA%E4%BA%8EFUSE%E7%9A%84%E4%BA%91%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E4%B8%8E%E5%AD%98%E5%82%A8%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6.pdf)
+- [基于FUSE的安全网络文件系统的研究与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E5%9F%BA%E4%BA%8EFUSE%E7%9A%84%E5%AE%89%E5%85%A8%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [基于FUSE的用户态文件系统的设计与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E5%9F%BA%E4%BA%8EFUSE%E7%9A%84%E7%94%A8%E6%88%B7%E6%80%81%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.caj)
+- [基于FUSE的透明文件加密系统研究与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E5%9F%BA%E4%BA%8EFUSE%E7%9A%84%E9%80%8F%E6%98%8E%E6%96%87%E4%BB%B6%E5%8A%A0%E5%AF%86%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [Android系统动态权限机制的研究与实现](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/Android%E7%B3%BB%E7%BB%9F%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90%E6%9C%BA%E5%88%B6%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.caj)
+- [用户态并行文件系统性能优化研究](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/%E7%94%A8%E6%88%B7%E6%80%81%E5%B9%B6%E8%A1%8C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6_%23x0002A_.pdf)
+- [EDFUSE：一个基于异步事件驱动的 FUSE用户级文件 系统框架](https://github.com/0voice/kernel_awsome_feature/blob/main/Fuse/EDFUSE%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%E5%BC%82%E6%AD%A5%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%20FUSE%E7%94%A8%E6%88%B7%E7%BA%A7%E6%96%87%E4%BB%B6%20%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B6.pdf)
+
 ### 文章
 
 ### 视频
